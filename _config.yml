@@ -6,8 +6,7 @@ exclude: ["README.md"] # files to exclude
 highlighter: rouge
 markdown: kramdown
 disqus: hilary
-baseurl: "https://c3113.github.io/JekyllBlog/"
-url: ""
+
 google_analytics: dbyll
 title: hilary
 
