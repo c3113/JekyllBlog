@@ -2,3 +2,5 @@
 _site/*
 *Thumbs.db
 Gemfile.lock
+# Mac cache
+*.DS_Store
